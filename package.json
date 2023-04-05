@@ -30,7 +30,7 @@
     "@ionic-native/file-transfer": "^4.0.0",
     "@ionic-native/geolocation": "^4.0.0",
     "@ionic-native/in-app-browser": "^5.15.0",
-    "@ionic-native/push": "^4.20.0",
+    "@ionic-native/push": "^4.0.0",
     "@ionic-native/social-sharing": "^4.0.0",
     "@ionic-native/splash-screen": "~4.20.0",
     "@ionic-native/status-bar": "~4.20.0",
@@ -61,7 +61,6 @@
     "ngx-pinch-zoom": "^1.2.5",
     "phonegap-plugin-barcodescanner": "^8.1.0",
     "phonegap-plugin-multidex": "^1.0.0",
-    "phonegap-plugin-push": "2.3.0",
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.29"
@@ -77,6 +76,7 @@
     "cordova-plugin-statusbar": "^2.4.2",
     "cordova-plugin-whitelist": "^1.3.3",
     "cordova-support-google-services": "^1.3.2",
+    "phonegap-plugin-push": "^2.3.0",
     "typescript": "~2.6.2",
     "ws": "3.3.2"
   },
@@ -107,13 +107,11 @@
       },
       "cordova-plugin-actionsheet": {},
       "cordova-plugin-camera": {},
-      "phonegap-plugin-push": {
-        "ANDROID_SUPPORT_V13_VERSION": "27.+",
-        "FCM_VERSION": "17.0.+"
-      }
+      "phonegap-plugin-push": {}
     },
     "platforms": [
-      "browser"
+      "browser",
+      "android"
     ]
   }
 }
