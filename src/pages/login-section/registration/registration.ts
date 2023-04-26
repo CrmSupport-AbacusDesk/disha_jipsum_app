@@ -42,7 +42,7 @@ export class RegistrationPage {
         this.getstatelist();
         this.uploadurl = this.constant.upload_url;
         this.data.mobile_no = this.navParams.get('mobile_no');
-        // this.lang = this.navParams.get('lang');
+        this.lang = this.navParams.get('lang');
         console.log(this.data.mobile_no);
         this.data.profile='';
         this.data.document_image='';

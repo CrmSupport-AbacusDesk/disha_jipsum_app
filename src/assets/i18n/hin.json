@@ -9,20 +9,17 @@
       "Resend" : "पुन: भेजें",
       "Edit Profile": "प्रोफ़ाइल संपादित करें",
       "Date of Anniversary": "वर्षगांठ की तिथि",
-
       "OTP has been send":"ओटीपी भेजा गया है",
-
       "Brand Name":"ब्रांड का नाम",
       "Select Request Type":"अनुरोध प्रकार चुनें",
       "Image":"छवि",
       "Coupon Code Manual Enter":"कूपन कोड मैनुअल दर्ज करें",
-
       "Alert":"चेतावनी",
       "Success":"पूर्ण",
       "Please wait...":"कृपया प्रतीक्षा करें...",
       "OK":"ठीक",
       "Your account has been suspended":"आपका खाता निरस्त कर दिया गया है",
-      "Registration":"पंजीकरण",
+     
       "Basic Information":"मूलभूत जानकारी",
       "First Name":"पहला नाम",
       "Last Name":"उपनाम",
@@ -62,13 +59,10 @@
 	"Estimate Delivery Time":"प्रसव के समय का अनुमान लगाएं",
 	"Shipping Information":"शिपिंग सूचना",
 	"Specification":"विनिर्देश",
-
       "Google Pay":"गूगल पे",
       "Points Received Type":"अंक प्राप्त प्रकार",
       "PhonePe":"phonepe",
       "Paytm":"Paytm",
-
-
       "Pdf Catalogues":"पीडीएफ कैटलॉग",
       "Balance Points":"शेष अंक",
       "Product Detail":"प्राडक्ट डिटेल",
@@ -223,5 +217,40 @@
 	"I have read":"मैंने पढ़ा है",
 	"cancelation policy":"रद्द करने की नीति",
       "Points":"अंक ",
-      "Redeemable Points":"रिडीम करने योग्य अंक"
+      "Redeemable Points":"रिडीम करने योग्य अंक",
+      "Redeem Request Detail":"अनुरोध विवरण रिडीम करें",
+      "Shipping address":"शिपिंग पता",
+      "Req. ID":"अनुरोध। पहचान",
+      "Gift Title":"उपहार का शीर्षक",
+      "Redeem Type":"रिडीम प्रकार",
+      "Redeem Status":"रिडीम स्थिति",
+      "Gift Status":"उपहार की स्थिति",
+      "Shipped by":"जहाजी माल भेजने वाला",
+      "Estimate delivery Date":"अनुमानित वितरण तिथि",
+      "Shipping information":"शिपिंग सूचना",
+      "Receive Date":"मिली तिथि",
+      "Receiving Remark":"टिप्पणी प्राप्त करना",
+      "Req Type":"अनुरोध का प्रकार",
+      "Scanned Points":"स्कैन किए गए अंक",
+      "Other Points":"अन्य बिंदु",
+      "Coupon Code":"कूपन कोड",
+      "Redeem Request":"रिडीम रिक्वेस्ट",
+      "Total Balance":"कुल शेष",
+      "Gift":"उपहार",
+      "Cash":"नकद",
+      "Paytm Number":"पेटीएम नंबर",
+      "Dealer Information":"डीलर सूचना",
+      "Registration":"पंजीकरण",
+      "Same as address":"पते के समान",
+      "Enter Coupon Code":"परचा कूट दर्ज करें",
+      "Please enter coupon code here, to get your points":"अपने अंक प्राप्त करने के लिए कृपया यहां कूपन कोड दर्ज करें",
+      "Tap on scan icon to scan your coupon":"अपने कूपन को स्कैन करने के लिए स्कैन आइकन पर टैप करें",
+      "Whatsapp No":"व्हाट्सएप नं"
+      
+
+
+      
+
+
+
 }
